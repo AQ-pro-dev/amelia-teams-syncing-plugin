@@ -122,11 +122,9 @@ Grant the following API permissions to the app:
 
 ## Contact & Credits
 
-Developed by [The Pro Developer].
+Developed by [The Pro Developer](mailto:theprodeveloper789@gmail.com).
 
 For feedback, suggestions, or collaboration, feel free to reach out!
-
-[Email me](mailto:theprodeveloper789@gmail.com)
 
 ---
 
