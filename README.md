@@ -126,5 +126,7 @@ Developed by [The Pro Developer].
 
 For feedback, suggestions, or collaboration, feel free to reach out!
 
+[Email me](mailto:theprodeveloper789@gmail.com)
+
 ---
 
